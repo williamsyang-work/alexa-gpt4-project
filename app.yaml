@@ -8,6 +8,3 @@ handlers:
 
   - url: /.*
     script: auto
-
-env_variables:
-  OPENAI_PROJECT_API_KEY: 'sk-proj-T038TA3CGZoVj9GteknsT3BlbkFJevhizpZ0tb5M1SSCigTR'
